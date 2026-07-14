@@ -1,5 +1,8 @@
 {
-  "version": "0.0.0",
-  "releaseNotes": "betaDONOTINSTALL",
-  "downloadURL": "NONE-BETA"
+  "version": "1.0.0",
+  "minimumIOS": "26.0",
+  "releaseDate": "2026-07-14",
+  "downloadURL": "YOUR_LINK_HERE",
+  "releaseNote": "Initial Release"
+  
 }
