@@ -1,8 +1,8 @@
 {
-  "version": "26.07.15.03",
+  "version": "26.07.15.13",
   "minimumIOS": "26.0",
   "releaseDate": "July 15, 2026",
-  "downloadURL": "https://www.icloud.com/shortcuts/c55f9d192b86426595e83d5964a06f4d",
-  "releaseNote": "• Updated the Software Update page & icons/n• Initial Release"
+  "downloadURL": "https://www.icloud.com/shortcuts/3be5a652c62e4a7dadf88c191205e29c",
+  "releaseNote": "• Updated the Software Update page & icons/n• Software Update message when successfully updated/n• Initial Release"
   
 }
