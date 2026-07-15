@@ -1,8 +1,7 @@
 {
-  "version": "26.07.14",
+  "version": "26.07.14.11",
   "minimumIOS": "26.0",
-  "releaseDate": "2026-07-14",
-  "downloadURL": "https://www.icloud.com/shortcuts/f08a6a470ec249ff9b43f6646ef5b12f",
-  "releaseNote": "Initial Release"
-  
+  "releaseDate": "July 14, 2026",
+  "downloadURL": "https://www.icloud.com/shortcuts/42ff0916a26f447cba20ed809f5aed3f",
+  "releaseNote": "New Update Page & Reqest Icon"
 }
