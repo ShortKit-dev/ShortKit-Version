@@ -1,8 +1,8 @@
 {
-  "version": "26.07.15.17",
+  "version": "26.07.15.21",
   "minimumIOS": "26.0",
   "releaseDate": "July 15, 2026",
-  "downloadURL": "https://www.icloud.com/shortcuts/565afe4164974a429aadf1123414525f",
-  "releaseNote": "• Updated the Software Update page & icons<br>• Software Update message when successfully updated<br>• Fixed version renaming<br>• Fixed breaking in the Install Update page (previously darker, now white)<br>• Initial Release"
+  "downloadURL": "https://www.icloud.com/shortcuts/cc5669cf2c864a4e9fc1ff86bfac0f79",
+  "releaseNote": "• Beta Release<br>• Fixed Shield not showing in the Feedback page list"
   
 }
